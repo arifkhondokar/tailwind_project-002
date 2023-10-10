@@ -26,7 +26,7 @@ tailwind.config = {
       },
       
       backgroundImage: {
-        'over': "linear-gradient(05deg, #060606 16.68%, rgba(0, 0, 0, 0.2) 90.44%), url('/images/banner.jpg');",
+        'over': "linear-gradient(05deg, #060606 16.68%, rgba(0, 0, 0, 0.2) 90.44%), url('./images/banner.jpg');",
         'overlay': 'linear-gradient(05deg, #060606 16.68%, rgba(0, 0, 0, 0.2) 90.44%);',
       },
       
