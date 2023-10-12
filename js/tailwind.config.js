@@ -18,7 +18,7 @@ tailwind.config = {
         'poppins': "'Poppins', sans-serif",
       },
       
-      ontWeight: {
+      fontWeight: {
         normal: '400',
         medium: '500',
         semibold: '600',
