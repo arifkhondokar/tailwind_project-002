@@ -11,7 +11,7 @@ tailwind.config = {
           btnbg: 'rgba(255, 255, 255, 0.50)',
       },
       maxWidth: {
-        'container': '1140px',
+        'container': '1536px',
       },
       
       fontFamily: {
